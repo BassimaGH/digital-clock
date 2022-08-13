@@ -1,19 +1,23 @@
+/* OVERALL STYLE */
 * {
     box-sizing: border-box;
     text-align: center;
     background-color: #040035;
 }
 
+/* BODY STYLE */
 body {
     margin-top: 15%;
 }
 
+/* CLOCK DIV STYLE */
 .clock {
     font-size: 2em;
     color: #ffffff;
     font-weight: 500;
 }
 
+/* H1 STYLE */
 h1 {
     color: aliceblue;
     font-size: 3em;
